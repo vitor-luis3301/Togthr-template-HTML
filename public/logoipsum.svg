@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="126"
+   height="32"
+   viewBox="0 0 126 32"
+   fill="none"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="logoipsum.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.1332075"
+     inkscape:cx="65.313008"
+     inkscape:cy="-4.1769414"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <path
+     d="M14.5158 6.27202V2.27734H1.92578V29.7231H14.5158V25.7285C11.9367 25.7285 9.46325 24.7035 7.63961 22.8791C5.81594 21.0547 4.79142 18.5803 4.79142 16.0002C4.79142 13.4202 5.81594 10.9457 7.63961 9.12136C9.46325 7.29696 11.9367 6.27202 14.5158 6.27202Z"
+     fill="#7C7C80"
+     id="path2" />
+  <path
+     d="M14.5156 6.27197V25.7284C17.0947 25.7284 19.5682 24.7034 21.3918 22.879C23.2155 21.0546 24.24 18.5803 24.24 16.0002C24.24 13.4201 23.2155 10.9457 21.3918 9.12131C19.5682 7.29691 17.0947 6.27197 14.5156 6.27197Z"
+     fill="#7C7C80"
+     id="path4" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.6662px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#7c7c80;fill-opacity:1;stroke:none;stroke-width:0.566655"
+     x="24.816698"
+     y="24.467079"
+     id="text2417"><tspan
+       sodipodi:role="line"
+       id="tspan2415"
+       x="24.816698"
+       y="24.467079"
+       style="stroke-width:0.566655;fill:#7c7c80;fill-opacity:1">Eletroluz</tspan></text>
+</svg>
